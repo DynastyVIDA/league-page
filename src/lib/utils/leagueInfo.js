@@ -1,18 +1,17 @@
 /*   STEP 1   */
 export const leagueID = "1050291527567716352"; // your league ID
-export const leagueName = "Kollin's_Dynasty"; // your league name
+export const leagueName = "Kollin's Dynasty"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to Kollin's Dynasty!.</p>
+  <p>Welcome to the home of gridiron greatness, where legacies are forged, and champions rise. Since its inception in 2022, our Dynasty Fantasy Football league has been a crucible of competition, where every play, every trade, and every draft pick shapes the destiny of our teams. From the inaugural triumph of For Verne to the dominant reign of 12 inch pubsub 8.99 in 2023, each season has seen new stars emerge, and new legends etched into the annals of our league's history.</p>
+  <p>As we stand on the cusp of the 2024 season, the air is charged with anticipation from the recent 2024 Dynasty SuperFLEX Rookie Draft, the thrill of victory and the agony of defeat lingering in the hearts of our managers. It's a time when dreams are born anew, when strategies are honed, and when bonds of camaraderie and rivalry alike are tested on the gridiron battlefield.</p>
+  <p>We embark on another exhilarating journey through the highs and lows of fantasy football, where every touchdown, every interception, and every waiver wire pickup could mean the difference between glory and defeat. Here, in our league, legends are made, stars are born, and the spirit of competition burns brighter than ever before. Welcome to the realm where fantasy becomes reality.</p>
+
 `;
 
 /*   STEP 3   */
